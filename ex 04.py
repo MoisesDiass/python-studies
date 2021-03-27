@@ -1,0 +1,8 @@
+v = input('digite algo: ')
+print('o tipo desse valor é ', type(v) )
+print('Só tem espaço: ', v.isspace())
+print('É um numero? ', v.isnumeric())
+print('É alfabetico?', v.isalpha())
+print('É um alfanumerico(que nome dificil)?', v.isalnum())
+print('Esta em maiuscula?', v.isupper())
+print('Só tem minuscula? ', v.islower())

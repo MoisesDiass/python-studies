@@ -1,0 +1,11 @@
+import ((+ o nome da biblioteca((toda a biblioteca)) que vc quer))
+from ((nome da biblioteca))import ((ae vc coloca o especifico que vc quer da biblioteca)) pudim ((esse tipo de comando ajuda a economizar 
+
+math ((funcionalidade matematica))
+ceil ((arredonda pra cima))
+floor ((arredonda pra baixo))
+trunc ((elimina da virgula pra frente, sem fazer nenhum arredondamento))
+pow ((potencia funciona igual aos **))
+sqrt ((calcular a raiz quadrada))
+factorial ((calcula fatorial))
+ex import math ((importa tudo a cima))
