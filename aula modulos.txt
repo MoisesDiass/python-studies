@@ -1,3 +1,4 @@
+AULA 08a
 import ((+ o nome da biblioteca((toda a biblioteca)) que vc quer))
 from ((nome da biblioteca))import ((ae vc coloca o especifico que vc quer da biblioteca)) pudim ((esse tipo de comando ajuda a economizar 
 
@@ -8,4 +9,12 @@ trunc ((elimina da virgula pra frente, sem fazer nenhum arredondamento))
 pow ((potencia funciona igual aos **))
 sqrt ((calcular a raiz quadrada))
 factorial ((calcula fatorial))
+random.random() (ps: ele gera um numero entre zero e um.) ((faz numeros aleatorios))
+random.randint() ((faz um numero aleatorio inteiro EX: random.randint(1,10 da um numero aleatorio de 1 ate 10)))
+import mais segurar o Crtl mais Espaço abre tudo o que vc  pode importar.
+
 ex import math ((importa tudo a cima))
+
+se vc der import math, ele vai importar tudo acima.
+
+se vc precisar somente de uma dessas funçoes, vc usa   from math import (e a funçao que vc quer EX: sqrt   se vc quiser colocar mais uma funçao nessa linha vc bota ,   entao vai ficar from math import sqrt,floor )
